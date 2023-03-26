@@ -50,7 +50,7 @@ My technology stack:
 
 ![Git statistic](https://github-readme-stats.vercel.app/api?username=DenCapone&show_icons=true&theme=gruvbox&hide_title=true&card_width=500)
 
-My contacts:
+### My contacts:
 
 📨  Telegram  <a href="https://t.me/DenCapone" target="blank">@DenCapone
 
