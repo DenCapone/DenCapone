@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/DenCapone/" target="_blank">Denis</a> 
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/denis-afrosin-0a1b311a3" target="_blank">Denis</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend developer</h3>
 
